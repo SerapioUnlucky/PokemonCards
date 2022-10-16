@@ -1,0 +1,1 @@
+Pokedex de la primera generación de Pokémon.
